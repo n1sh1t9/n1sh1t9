@@ -9,3 +9,4 @@
 Suggested Citation: United States Department of Health and Human Services (US DHHS), Centers for Disease Control and Prevention(CDC),
 National Center for Health Statistics (NCHS), Division of Vital Statistics, Natality public-use data 2016-2019, on CDC
 WONDER Online Database, October 2020. Accessed at http://wonder.cdc.gov/natality-expanded-current.html
+The github profile of my colleagues working on the project with me are as follows: https://github.com/Wcard625
